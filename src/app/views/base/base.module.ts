@@ -44,13 +44,13 @@ import { CardsComponent } from './cards.component';
 
 
 // Components Routing
-import { BaseRoutingModule } from './base-routing.module';
+// import { BaseRoutingModule } from './base-routing.module';
 
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
-    BaseRoutingModule,
+    // BaseRoutingModule,
     // BsDropdownModule.forRoot(),
     // TabsModule,
     // CarouselModule.forRoot(),
